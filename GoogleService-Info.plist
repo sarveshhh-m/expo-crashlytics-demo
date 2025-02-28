@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyD4_l09eV22hYQO-NwXvWnuzIjDmP3NQ5w</string>
+	<key>GCM_SENDER_ID</key>
+	<string>160569544626</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.sarvesh-1211.demo</string>
+	<key>PROJECT_ID</key>
+	<string>lumos-357eb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>lumos-357eb.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:160569544626:ios:3ffb9e3aa5be862b3e5eab</string>
+</dict>
+</plist>

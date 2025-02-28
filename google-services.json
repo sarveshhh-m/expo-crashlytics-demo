@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "160569544626",
+    "project_id": "lumos-357eb",
+    "storage_bucket": "lumos-357eb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160569544626:android:9c973170c2a19a783e5eab",
+        "android_client_info": {
+          "package_name": "com.sarvesh_1211.demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKRreCaB7rwCooH8Mx5-wp89UYEVlpbIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
